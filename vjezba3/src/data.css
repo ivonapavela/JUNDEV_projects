@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 30px 70px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+.input {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    width: 300px;
+    font-size: 25px;
+}
+
+label {
+    margin-left: -10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.icon{
+    margin-right: 5px;
+}
+
+.alert {
+    margin-top: -40px;
+    margin-left: 40px;
+    padding: 10px;
+    font-size: 15px;
+    color: red;
+}
+
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+
+input:focus{
+    outline: none;
+    background-color: transparent;
+}
+
+input:active{
+    outline: none;
+    background-color: transparent;
+}
+
+
+.date {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    width: 300px;
+    font-size: 25px;
+}
+
+.date label {
+    margin-left: -10px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.select-date {
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+}
+
+.select-date select {
+   appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 10px;
+  margin: 0px 50px;
+  font-size: inherit;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.button {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.button button {
+    font-size: 30px;
+    outline:none;
+    border:none;
+    background-color: transparent;
+}

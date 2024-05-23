@@ -1,0 +1,12 @@
+.skill-bar {
+    margin: 30px;
+    width: 70%;
+    height: 20px;
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+
+.skill-proficiency {
+    height: 20px;
+    border-radius:20px;
+}

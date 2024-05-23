@@ -1,0 +1,75 @@
+.statistics {
+    display: flex;
+}
+
+.referee,
+.statistics-section,
+.total {
+    width: 30%
+}
+.referee {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: flex-start;
+    margin-left: 50px;
+}
+
+.select {
+    display: flex;
+    justify-content: space-between;
+}
+
+.referee-option {
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: none;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.select img {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+}
+
+.decision {
+    background: none;
+    border: none;
+}
+
+.decision img {
+    height: 200px;
+    width: 200px;
+    border-radius: 40%;
+    padding: 20px;
+}
+
+
+.decisions {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-right: 50px;
+    margin-left: -120px;
+}
+
+.statement {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #167532;
+    color: white;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.statement img {
+    height: 70px;
+    width: 70px; 
+    border-radius:50%;
+    margin: 0px 5px;
+}

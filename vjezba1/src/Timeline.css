@@ -1,0 +1,53 @@
+.section {
+    border-top: 1px solid #0B0B45;
+    padding-bottom: 20px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.section-title {
+    display: flex;
+    font-size: 40px;
+    margin-top: 20px;
+    color: #0B0B45;
+}
+
+.timeline-icon {
+    margin-right: 50px;
+}
+.timeline {
+    border-left: 4px solid #0B0B45;
+    max-width: 70%;
+    margin: 40px;
+    padding-top: 40px;
+}
+
+.period {
+    margin: -24px 0px 30px 25px;
+    display: flex;
+}
+.time {
+    display: flex;
+    min-width: 300px;
+    color: white;
+    background-color: #0B0B45;
+    height: 40px;
+    border-radius: 50px;
+    margin-right: 50px;
+    margin-left: -50px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2 {
+    margin-left: -50px;
+    color: #0B0B45;
+}
+
+.information {
+    margin-top: -15px;
+    margin-left: 50px;
+    font-size: 17px;
+    color: #1d1717;
+}

@@ -1,0 +1,80 @@
+{
+  "clothing_items": [
+    {
+      "imageUrl": "https://cdn-img.prettylittlething.com/1/4/d/2/14d2eb9147cea03e3289ad27834a91a440cbe669_cmr6561_1.jpg",
+      "size": "S",
+      "type": "Shirt",
+      "color": "#0000ff",
+      "id": "1",
+      "description": "A casual blue shirt suitable for everyday wear.",
+      "date": "2024-04-10T00:00:00.000Z"
+    },
+    {
+      "imageUrl": "https://th.bing.com/th/id/R.2db2fd27e8efa1af98e71a7f111fea83?rik=3YLI5rJP%2b3xYTg&pid=ImgRaw&r=0",
+      "size": "M",
+      "type": "Dress",
+      "color": "#000000",
+      "id": "3",
+      "description": "A little black dress perfect for evening events."
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://th.bing.com/th/id/R.323f6c5f118c7ab7eec927bbe64b846f?rik=RRpNZMZlLRnaPA&pid=ImgRaw&r=0",
+      "size": "XL",
+      "date": "2024-03-22",
+      "type": "Jacket",
+      "color": "#285228",
+      "description": "A stylish green jacket to keep you warm during chilly days."
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://images.asos-media.com/products/asos-design-whitby-low-rise-skinny-jeans-in-clean-black/10727586-1-cleanblack?$XXL$&wid=513&fit=constrain",
+      "size": "L",
+      "type": "Jeans",
+      "color": "#000000",
+      "description": "Classic dark denim jeans for a timeless look."
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://i.pinimg.com/736x/8d/7f/47/8d7f47ac9c5c0ca4be6af65234ec8559.jpg",
+      "size": "XS",
+      "type": "T-shirt",
+      "color": "#ff0000",
+      "description": "A vibrant red t-shirt perfect for casual outings.",
+      "date": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://i5.walmartimages.com/asr/906dc6ad-8259-47de-83df-c790c7358084_1.6f5f41f801c2b437dc59a94a025a15b3.jpeg",
+      "size": "L",
+      "type": "Hoodie",
+      "color": "#808080",
+      "description": "A comfortable gray hoodie for cozy days.",
+      "date": "2024-03-06T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://th.bing.com/th/id/OIP.Zww2XT-P8_4_f6qET7o14AHaKu?rs=1&pid=ImgDetMain",
+      "size": "XL",
+      "type": "Sweater",
+      "color": "#480a29",
+      "description": "A warm burgundy sweater for cold winter days."
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://cdna.lystit.com/photos/tessuti/e7d1e15a/adidas-originals-GreenGreen-Mens-3-stripes-Fleece-Shorts-Greengreen.jpeg",
+      "size": "M",
+      "type": "Shorts",
+      "color": "#008000",
+      "description": "Casual green shorts ideal for summer outings."
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://i.etsystatic.com/5609612/r/il/680d41/1306244336/il_1588xN.1306244336_p5ho.jpg",
+      "size": "L",
+      "type": "Coat",
+      "color": "#800000",
+      "description": "A stylish red coat to make a statement in winter."
+    }
+  ]
+}

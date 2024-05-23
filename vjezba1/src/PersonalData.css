@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+
+
+img {
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid white;
+    object-fit: cover;
+    margin: 20px 0px;
+}
+
+.personal-data {
+    background-color: #0B0B45;
+    color: white;
+    max-width: 400px;
+    padding: 20px 0px 0px 30px;
+    margin-right: 100px;
+}
+
+.title {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.icon {
+    color: white;
+    margin: 15px;
+    font-size: 20px;
+}
+
+
+.footer-container {
+    margin-top: 1200px;
+}
